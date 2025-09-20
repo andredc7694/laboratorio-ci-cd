@@ -1,0 +1,23 @@
+{
+  "name": "laboratorio-ci-cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"(Sin pruebas todavía)\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andredc7694/laboratorio-ci-cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andredc7694/laboratorio-ci-cd/issues"
+  },
+  "homepage": "https://github.com/andredc7694/laboratorio-ci-cd#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
