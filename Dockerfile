@@ -1,3 +1,6 @@
+# Imagen base de Node.js (usa la versión LTS actual)
+FROM node:20
+
 # Carpeta de trabajo dentro del contenedor
 WORKDIR /app
 
